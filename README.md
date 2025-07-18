@@ -1,2 +1,16 @@
-# FACE_Detection
-Here’s a **short GitHub description** you can use:  > 🖥️ Face Detection using Python and OpenCV. Detect faces in images, videos, and real-time webcam streams with Haar Cascade classifiers.  Do you want me to give **3-4 more short variations** so you can pick the best one?
+🎯 Face Detection using OpenCV
+A Python-based Face Detection project that uses OpenCV and Haar Cascade Classifiers to detect human faces in images, videos, or real-time webcam streams.
+
+🚀 Features
+Detect faces in images, videos, and live camera feeds
+
+Uses Haar Cascade and can be extended to use DNN models (Deep Neural Networks)
+
+Lightweight and fast for real-time applications
+
+Beginner-friendly code for learning OpenCV
+
+📦 Tech Stack
+📸 OpenCV
+
+💻 NumPy
